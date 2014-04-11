@@ -1,0 +1,6 @@
+This homework was programmed using android studio, please keep in mind that the folder structure is changed while compiling.
+
+The last build apk version can be found here:
+http://www.cold-core.de/apk/HomeWork1.apk
+
+This homework is released under Apache 2.0. license.

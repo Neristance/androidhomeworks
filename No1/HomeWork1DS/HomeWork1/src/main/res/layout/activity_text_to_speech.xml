@@ -23,4 +23,11 @@
         android:layout_height="wrap_content"
         android:text="@string/start_talking"/>
 
+    <TextView
+        android:layout_marginTop="10dp"
+        android:text="@string/cp_by"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
 </LinearLayout>
